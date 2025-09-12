@@ -4,6 +4,7 @@ An opinionated list of resources to help modellers follow good modelling practic
 
 ## Contents
 * [Model Libraries](#model-libraries)
+* [Modelling Principles](#modelling-principles)
 * [Modelling Standards](#modelling-standards)
 * [Societies Discussing Modelling Practices](#societies-discussing-modelling-practices)
 * [Guides](#guides)
@@ -17,8 +18,18 @@ An opinionated list of resources to help modellers follow good modelling practic
 - [OSF](https://osf.io/) - Open repository containing models, research papers, data sets, software and more. Developed by the Center for Open Science and based on the United States.
 - [Zenodo](https://zenodo.org/) - Open repository containing models, research papers, data sets, software and more. Developed by CERN and based on Europe.
 
+## Modelling Principles
+- [FAIR](https://www.go-fair.org/) - Findable, Accessible, Interoperable, Reusable.
+- [CARE](https://www.gida-global.org/care) - CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) Principles for Indigenous Data Governance.
+- [INSPIRE](https://knowledge-base.inspire.ec.europa.eu/overview_en) - Infrastructure for Spatial Information in Europe
+
 ## Modelling Standards
 - [ODD](https://doi.org/10.1016/j.ecolmodel.2010.08.019) - The ODD (Overview, Design concepts, and Details) protocol standardize the published descriptions of individual-based and agent-based models (ABMs).
+- [TRACE](https://doi.org/10.1016/j.ecolmodel.2014.01.018A) - The TRACE (TRAnsparent and Comprehensive model Evaludation) protocol provide a structured and standardized approach to documenting a model's formulation, implementation, testing, and application.
+- [CSDMS Standard Names](https://csdms.colorado.edu/wiki/CSDMS_Standard_Names) - Comprehensive set of rules, patterns and standards for naming variables in models.
+- [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Languageu) - The UML (Unified Modeling Language) is a standardized visual modeling language that provides a way to visualize the architecture and design of a system.
+- [STEP](https://en.wikipedia.org/wiki/ISO_10303) - The Standard for the Exchange of Product model data (STEP) or ISO 10303 is a standard to provide interoperability between software.
+- [OMF Standard](https://www.openmodelingfoundation.org/standards/) - Open Modeling Foundation in development standards.
 
 ## Societies Discussing Modelling Practices
 - [OMF](https://www.openmodelingfoundation.org/) - The Open Modeling Foundation is an alliance of modeling organizations that coordinates and administers a common, community developed body of standards and best practices among diverse communities of modeling scientists.
