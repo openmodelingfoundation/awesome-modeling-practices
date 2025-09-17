@@ -2,6 +2,8 @@
 
 An opinionated list of resources to help modelers follow good modeling practices. Developed by the Early Career Scholars Working Group of the Open Modeling Foundation.
 
+Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting your Pull Request.
+
 ## Contents
 * [Modeling Principles](#modeling-principles)
 * [Modeling Standards](#modeling-standards)
