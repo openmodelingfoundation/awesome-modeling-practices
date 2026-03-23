@@ -58,6 +58,8 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [Hamilton et al., 2022. Fit-for-purpose environmental modeling: Targeting the intersection of usability, reliability and feasibility](https://doi.org/10.1016/j.envsoft.2021.105278) - Proposes a fit-for-purpose framework to ensure models are useful, reliable, and feasible for decision support.
 - [Kherroubi Garcia et al., 2025. Ten simple rules for good model-sharing practices](https://doi.org/10.1371/journal.pcbi.1012702) - Presents ten practical rules to help researchers share computational models effectively and promote wider adoption of better model-sharing practices.
 - [Swannack et al., 2025. Cracking the code: Linking good modeling and coding practices for new ecological modelers](https://doi.org/10.1016/j.ecolmodel.2024.110926) - Offers guidance for new modelers building strong coding and documentation habits to support reproducible ecological models.
+- [Sun et al., 2026. A catalogue of Do's and Don'ts in the modeling of environmental systems](https://www.sciencedirect.com/science/article/pii/S136481522600040X?via%3Dihub) - Offers practical “Do's and Don'ts” guide for defensible modeling in every phase.
+
 ## Workshops, Exercises, Tutorials
 - [Scientific Programming e Reproducible Workflows](https://zenodo.org/records/17879035) - Complete set of teaching materials for an innovative, hybrid block course on Scientific Programming and Workflow Management, designed for Master's and PhD students in the environmental sciences and related fields.
 
