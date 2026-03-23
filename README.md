@@ -20,6 +20,7 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [FAIR](https://www.go-fair.org/) - Findable, Accessible, Interoperable, Reusable.
 - [CARE](https://www.gida-global.org/care) - Collective Benefit, Authority to Control, Responsibility, and Ethics. Principles for Indigenous Data Governance.
 - [INSPIRE](https://knowledge-base.inspire.ec.europa.eu/overview_en) - Infrastructure for Spatial Information in Europe.
+- [PAVE](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biag010/8527577) - The PAVE pathway: how to talk about models with people who built them, and people who didn’t.
 
 ## Modeling Standards
 - [ODD](https://doi.org/10.1016/j.ecolmodel.2010.08.019) - The Overview, Design concepts, and Details protocol standardize descriptions of individual-based and agent-based models.
