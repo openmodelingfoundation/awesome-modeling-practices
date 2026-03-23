@@ -13,6 +13,7 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 * [Guides](#guides)
 * [Papers](#papers)
 * [Workshops, Exercises, Tutorials](#tutorials)
+* [A hitchhikers guide to AI for a FAIR and TRACEable World](#AI)
 
 ---
 
@@ -62,5 +63,10 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 
 ## Workshops, Exercises, Tutorials
 - [Scientific Programming e Reproducible Workflows](https://zenodo.org/records/17879035) - Complete set of teaching materials for an innovative, hybrid block course on Scientific Programming and Workflow Management, designed for Master's and PhD students in the environmental sciences and related fields.
+
+## A hitchhikers guide to AI for a FAIR and TRACEable World
+- [Get lazy with LLMs  Clinic (by humans for humans)](https://github.com/comses-education/get-lazy-with-llms-clinic) - A toolkit and guide for using LLMs effectively on moderately complex tasks through better prompting.
+- [Machine Learning in Julia Training Worshop](https://open-aims.github.io/Julia_ML_training/) - AIMS: Julia Language Workshop by Accumulation Point.
+
 
 
