@@ -29,6 +29,7 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) - The Unified Modeling Language is a standardized visual modeling language to visualize the architecture and design of a system.
 - [STEP](https://en.wikipedia.org/wiki/ISO_10303) - The Standard for the Exchange of Product model data or ISO 10303 is a standard to provide interoperability between software.
 - [OMF Standard](https://www.openmodelingfoundation.org/standards/) - Open Modeling Foundation (in development) modeling standards.
+- [ODE](https://www.sciencedirect.com/science/article/pii/S1364815226000599?via%3Dihub) - The ODE (Overview, Data, and Execution) protocol for a standardized use of machine learning in environmental, social and related interdisciplinary sciences.
 
 ## Model Libraries
 - [CoMSES Model Library ](https://www.comses.net/codebases/) - Open repository containing models. Developed by CoMSES Net and based on the United States
