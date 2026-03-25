@@ -12,8 +12,8 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 * [Journals Discussing Modeling Practices](#journals-discussing-modeling-practices)
 * [Guides](#guides)
 * [Papers](#papers)
-* [Workshops, Exercises, Tutorials](#tutorials)
-* [A hitchhikers guide to AI for a FAIR and TRACEable World](#AI)
+* [Workshops and Tutorials](#workshops-and-tutorials)
+* [A hitchhikers guide to AI for a FAIR and TRACEable World](#a-hitchhikers-guide-to-ai-for-a-fair-and-traceable-world)
 
 ---
 
@@ -21,7 +21,7 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [FAIR](https://www.go-fair.org/) - Findable, Accessible, Interoperable, Reusable.
 - [CARE](https://www.gida-global.org/care) - Collective Benefit, Authority to Control, Responsibility, and Ethics. Principles for Indigenous Data Governance.
 - [INSPIRE](https://knowledge-base.inspire.ec.europa.eu/overview_en) - Infrastructure for Spatial Information in Europe.
-- [PAVE](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biag010/8527577) - The PAVE pathway: how to talk about models with people who built them, and people who didn’t.
+- [PAVE](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biag010/8527577) - Purpose, Assumptions, Validity, and Exploration. Method to communicate the suitability of models to inform a particular purpose.
 
 ## Modeling Standards
 - [ODD](https://doi.org/10.1016/j.ecolmodel.2010.08.019) - The Overview, Design concepts, and Details protocol standardize descriptions of individual-based and agent-based models.
@@ -30,7 +30,7 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) - The Unified Modeling Language is a standardized visual modeling language to visualize the architecture and design of a system.
 - [STEP](https://en.wikipedia.org/wiki/ISO_10303) - The Standard for the Exchange of Product model data or ISO 10303 is a standard to provide interoperability between software.
 - [OMF Standard](https://www.openmodelingfoundation.org/standards/) - Open Modeling Foundation (in development) modeling standards.
-- [ODE](https://www.sciencedirect.com/science/article/pii/S1364815226000599?via%3Dihub) - The ODE (Overview, Data, and Execution) protocol for a standardized use of machine learning in environmental, social and related interdisciplinary sciences.
+- [ODE](https://www.sciencedirect.com/science/article/pii/S1364815226000599?via%3Dihub) - The Overview, Data, and Execution protocol for a standardized use of machine learning in environmental, social and related interdisciplinary sciences.
 
 ## Model Libraries
 - [CoMSES Model Library ](https://www.comses.net/codebases/) - Open repository containing models. Developed by CoMSES Net and based on the United States
@@ -61,12 +61,10 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [Swannack et al., 2025. Cracking the code: Linking good modeling and coding practices for new ecological modelers](https://doi.org/10.1016/j.ecolmodel.2024.110926) - Offers guidance for new modelers building strong coding and documentation habits to support reproducible ecological models.
 - [Sun et al., 2026. A catalogue of Do's and Don'ts in the modeling of environmental systems](https://www.sciencedirect.com/science/article/pii/S136481522600040X?via%3Dihub) - Offers practical “Do's and Don'ts” guide for defensible modeling in every phase.
 
-## Workshops, Exercises, Tutorials
+## Workshops and Tutorials
 - [Scientific Programming e Reproducible Workflows](https://zenodo.org/records/17879035) - Complete set of teaching materials for an innovative, hybrid block course on Scientific Programming and Workflow Management, designed for Master's and PhD students in the environmental sciences and related fields.
 
 ## A hitchhikers guide to AI for a FAIR and TRACEable World
 - [Get lazy with LLMs  Clinic (by humans for humans)](https://github.com/comses-education/get-lazy-with-llms-clinic) - A toolkit and guide for using LLMs effectively on moderately complex tasks through better prompting.
-- [Machine Learning in Julia Training Worshop](https://open-aims.github.io/Julia_ML_training/) - AIMS: Julia Language Workshop by Accumulation Point.
-
-
+- [A Crash Course on the Julia Language and Ecosystem](https://open-aims.github.io/Julia_ML_training/) - Julia Workshop delivered by Accumulation Point to the Australian Institute of Marine Science.
 
