@@ -10,7 +10,6 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 * [Model Libraries](#model-libraries)
 * [Societies Discussing Modeling Practices](#societies-discussing-modeling-practices)
 * [Journals Discussing Modeling Practices](#journals-discussing-modeling-practices)
-* [Guides](#guides)
 * [Papers](#papers)
 * [Workshops and Tutorials](#workshops-and-tutorials)
 * [A hitchhikers guide to AI for a FAIR and TRACEable World](#a-hitchhikers-guide-to-ai-for-a-fair-and-traceable-world)
@@ -49,9 +48,6 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [Socio-Environmental Systems Modelling (SESMO)](https://sesmo.org)
 - [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
 
-## Guides
-- [Good Enough Practices in Scientific Computing](https://carpentries-lab.github.io/good-enough-practices/index.html) - Carpentries's tutorial on good scientific computing practices for researchers.
-
 ## Papers
 - [Jakeman et al., 2024. Towards normalizing good practice across the whole modeling cycle: its instrumentation and future research topics](https://doi.org/10.18174/sesmo.18755) - Outlines research gaps and concrete actions to embed good modeling practice across the entire modeling cycle.
 - [Elsawah et al., 2017. An overview of the system dynamics process for integrated modelling of socio-ecological systems: Lessons on good modelling practice from five case studies](https://doi.org/10.1016/j.envsoft.2017.03.001) - Shares lessons from five system-dynamics cases to guide good practice in integrated socio-ecological modeling.
@@ -63,6 +59,7 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 
 ## Workshops and Tutorials
 - [Scientific Programming e Reproducible Workflows](https://zenodo.org/records/17879035) - Complete set of teaching materials for an innovative, hybrid block course on Scientific Programming and Workflow Management, designed for Master's and PhD students in the environmental sciences and related fields.
+- [Good Enough Practices in Scientific Computing](https://carpentries-lab.github.io/good-enough-practices/index.html) - Carpentries's tutorial on good scientific computing practices for researchers.
 
 ## A hitchhikers guide to AI for a FAIR and TRACEable World
 - [Get lazy with LLMs  Clinic (by humans for humans)](https://github.com/comses-education/get-lazy-with-llms-clinic) - A toolkit and guide for using LLMs effectively on moderately complex tasks through better prompting.
