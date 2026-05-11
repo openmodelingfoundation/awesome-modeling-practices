@@ -50,7 +50,7 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 
 ## Papers
 
-OMF_CANONICAL_PAPERS
+_Publications list generated dynamically on the OMF website._
 
 ## Workshops and Tutorials
 - [Scientific Programming e Reproducible Workflows](https://zenodo.org/records/17879035) - Complete set of teaching materials for an innovative, hybrid block course on Scientific Programming and Workflow Management, designed for Master's and PhD students in the environmental sciences and related fields.
