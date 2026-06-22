@@ -32,16 +32,17 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [ODE](https://www.sciencedirect.com/science/article/pii/S1364815226000599?via%3Dihub) - The Overview, Data, and Execution protocol for a standardized use of machine learning in environmental, social and related interdisciplinary sciences.
 
 ## Model Libraries
-- [CoMSES Model Library ](https://www.comses.net/codebases/) - Open repository with computational models for the social and ecological sciences. Developed by CoMSES Net and based in the United States / Canada.
-- [CSDMS Model Repository](https://csdms.colorado.edu/wiki/Model_download_portal) - a code and metadata repository for numerical models and scientific software tools for earth surface dynamics models maintained by the Community Surface Dynamics Modeling System. Based in the United States.
-- [OSF](https://osf.io/) - Generalist repository containing models, research papers, data sets, software and more. Developed by the Center for Open Science and based on the United States.
-- [Zenodo](https://zenodo.org/) - Generalist repository containing models, research papers, data sets, software and more. Developed by CERN and based on Europe. [Integrates with GitHub](https://help.zenodo.org/docs/github/) so a DOI can be issued on a GitHub release
+- [CoMSES Model Library ](https://www.comses.net/codebases/) - Open repository containing models. Developed by CoMSES Net and based on the United States
+- [OSF](https://osf.io/) - Open repository containing models, research papers, data sets, software and more. Developed by the Center for Open Science and based on the United States.
+- [Zenodo](https://zenodo.org/) - Open repository containing models, research papers, data sets, software and more. Developed by CERN and based on Europe.
+- [CSDMS](https://csdms.colorado.edu) - A large, open repository of Earth-surface and environmental models (e.g., hydrology, geomorphology, climate), emphasizing model interoperability, reuse, and coupling.
+- [CUAHSI](https://cuahsi.org) - Primarily a hydrologic cyberinfrastructure platform that enables sharing, discovery, and collaborative use of water data, models, and workflows through tools such as HydroShare.
+- [OpenGMS](https://geomodeling.njnu.edu.cn/) - An open platform for geographic and Earth-system modeling that provides model repositories, model-sharing services, and tools for model integration and execution across geoscience domains.
 
 ## Societies Discussing Modeling Practices
 - [OMF](https://www.openmodelingfoundation.org/) - The Open Modeling Foundation is an alliance of modeling organizations to develop and promote a community developed body of modeling standards and best practices.
 - [CSDMS](https://csdms.colorado.edu/) - The Community Surface Dynamics Modeling System promotes the modeling of earth surface processes by developing, supporting, and disseminating integrated software modules.
 - [CoMSES Net](https://www.comses.net/) - The Network for Computational Modeling in the Social and Ecological Sciences is an open community to improving the way we develop, share, and use computational models.
-- [iEMSs](https://iemss.org/) - International Environmental Modelling & Software Society is a not-for-profit organization uniting private persons and organizations dealing with environmental modelling, software and related topics.
 
 ## Journals Discussing Modeling Practices
 - [Environmental Modelling and Software (EMS)](https://www.sciencedirect.com/journal/environmental-modelling-and-software)
@@ -52,13 +53,13 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 
 ## Papers
 
-_Publications list generated dynamically on the OMF website._
+OMF_PUBLICATIONS_LIST
 
 ## Workshops and Tutorials
 - [Scientific Programming e Reproducible Workflows](https://zenodo.org/records/17879035) - Complete set of teaching materials for an innovative, hybrid block course on Scientific Programming and Workflow Management, designed for Master's and PhD students in the environmental sciences and related fields.
 - [Good Enough Practices in Scientific Computing](https://carpentries-lab.github.io/good-enough-practices/index.html) - Carpentries's tutorial on good scientific computing practices for researchers.
 
 ## A hitchhikers guide to AI for a FAIR and TRACEable World
-- [Get Lazy with Agents Clinic (by humans for humans)](https://github.com/comses-education/get-lazy-with-agents-clinic) - From installing an AI agent to putting it to work: a clinic on Human+AI collaboration and co-evolution aimed at deepening understanding, sharpening judgment, and expanding human capability
+- [Get lazy with LLMs  Clinic (by humans for humans)](https://github.com/comses-education/get-lazy-with-llms-clinic) - A toolkit and guide for using LLMs effectively on moderately complex tasks through better prompting.
 - [A Crash Course on the Julia Language and Ecosystem](https://open-aims.github.io/Julia_ML_training/) - Julia Workshop delivered by Accumulation Point to the Australian Institute of Marine Science.
 
