@@ -31,15 +31,19 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 - [OMF Standard](https://www.openmodelingfoundation.org/standards/) - Open Modeling Foundation (in development) modeling standards.
 - [ODE](https://www.sciencedirect.com/science/article/pii/S1364815226000599?via%3Dihub) - The Overview, Data, and Execution protocol for a standardized use of machine learning in environmental, social and related interdisciplinary sciences.
 
-## Model Libraries
+## Model Libraries and Research Software Registries
 - [CoMSES Model Library ](https://www.comses.net/codebases/) - Open repository with computational models for the social and ecological sciences. Developed by CoMSES Net and based in the United States / Canada.
 - [CSDMS Model Repository](https://csdms.colorado.edu/wiki/Model_download_portal) - a code and metadata repository for numerical models and scientific software tools for earth surface dynamics models maintained by the Community Surface Dynamics Modeling System. Based in the United States.
 - [Zenodo](https://zenodo.org/) - Generalist repository containing models, research papers, data sets, software and more. Developed by CERN and based on Europe. [Integrates with GitHub](https://help.zenodo.org/docs/github/) so a DOI can be issued on a GitHub release
+- [Astrophysics Source Code Library (ASCL)](https://ascl.net/) - Registry and repository of research software used in astronomy and astrophysics, including modeling and simulation codes. Entries receive unique, citable ASCL identifiers and are indexed by NASA ADS.
 - [BioModels](https://www.ebi.ac.uk/biomodels/) - Repository of biological and biomedical models in standard formats, with curated models checked against published results and semantically annotated.
 - [Physiome Model Repository](https://models.physiomeproject.org/) - Repository of physiological models expressed in CellML, with associated metadata and publication references.
 - [ModelDB](https://modeldb.science/) - Repository of computational neuroscience models with downloadable source code across programming languages and simulation environments.
 - [HydroShare](https://www.hydroshare.org/) - Repository for sharing hydrologic models, data, and code, with metadata, collaboration tools, and DOI publication. Developed by CUAHSI.
 - [NetLogo Models Library](https://ccl.netlogo.org/netlogo/models/) - Collection of example models spanning social, ecological, and physical systems for learning and adapting agent-based models.
+- [Open Knowledgebase of Interatomic Models (OpenKIM)](https://openkim.org/) - Repository of interatomic potentials for atomistic simulations, with standardized interfaces and tests for evaluating model predictions.
+- [NIST Interatomic Potentials Repository](https://www.ctcms.nist.gov/potentials/) - Repository of interatomic potentials, parameter files, and evaluation tools for materials modeling, with references and guidance on model applicability.
+- [Materials Cloud](https://www.materialscloud.org/) - Platform for computational materials science providing simulation tools, research data archiving, and sharing of computational workflows and provenance through AiiDA.
 
 ## Societies Discussing Modeling Practices
 - [OMF](https://www.openmodelingfoundation.org/) - The Open Modeling Foundation is an alliance of modeling organizations to develop and promote a community developed body of modeling standards and best practices.
