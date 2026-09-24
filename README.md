@@ -34,8 +34,12 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 ## Model Libraries
 - [CoMSES Model Library ](https://www.comses.net/codebases/) - Open repository with computational models for the social and ecological sciences. Developed by CoMSES Net and based in the United States / Canada.
 - [CSDMS Model Repository](https://csdms.colorado.edu/wiki/Model_download_portal) - a code and metadata repository for numerical models and scientific software tools for earth surface dynamics models maintained by the Community Surface Dynamics Modeling System. Based in the United States.
-- [OSF](https://osf.io/) - Generalist repository containing models, research papers, data sets, software and more. Developed by the Center for Open Science and based on the United States.
 - [Zenodo](https://zenodo.org/) - Generalist repository containing models, research papers, data sets, software and more. Developed by CERN and based on Europe. [Integrates with GitHub](https://help.zenodo.org/docs/github/) so a DOI can be issued on a GitHub release
+- [BioModels](https://www.ebi.ac.uk/biomodels/) - Repository of biological and biomedical models in standard formats, with curated models checked against published results and semantically annotated.
+- [Physiome Model Repository](https://models.physiomeproject.org/) - Repository of physiological models expressed in CellML, with associated metadata and publication references.
+- [ModelDB](https://modeldb.science/) - Repository of computational neuroscience models with downloadable source code across programming languages and simulation environments.
+- [HydroShare](https://www.hydroshare.org/) - Repository for sharing hydrologic models, data, and code, with metadata, collaboration tools, and DOI publication. Developed by CUAHSI.
+- [NetLogo Models Library](https://ccl.netlogo.org/netlogo/models/) - Collection of example models spanning social, ecological, and physical systems for learning and adapting agent-based models.
 
 ## Societies Discussing Modeling Practices
 - [OMF](https://www.openmodelingfoundation.org/) - The Open Modeling Foundation is an alliance of modeling organizations to develop and promote a community developed body of modeling standards and best practices.
