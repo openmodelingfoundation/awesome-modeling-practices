@@ -60,7 +60,11 @@ Contributions are welcomed! Please read our [Contribution Guidelines](CONTRIBUTI
 
 ## Papers
 
-_Publications are dynamically generated on the OMF website. View them at <https://www.openmodelingfoundation.org/resources/publications/>_
+<!-- OMF:PUBLICATIONS:START -->
+Publications are dynamically generated on the OMF website and viewable at <https://www.openmodelingfoundation.org/resources/publications/>
+
+If you have any additional publications to add, [let us know by creating an issue](https://github.com/openmodelingfoundation/awesome-modeling-practices/issues/new) or submitting a PR directly for the [OMF publications.bib file](https://github.com/openmodelingfoundation/openmodelingfoundation.github.io/blob/develop/assets/bibliographies/publications.bib).
+<!-- OMF:PUBLICATIONS:END -->
 
 ## Workshops and Tutorials
 - [Scientific Programming e Reproducible Workflows](https://zenodo.org/records/17879035) - Complete set of teaching materials for an innovative, hybrid block course on Scientific Programming and Workflow Management, designed for Master's and PhD students in the environmental sciences and related fields.
